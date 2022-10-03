@@ -140,12 +140,12 @@
   display: flex;
 }
 
-.btn--activee {
+.btnn--activee {
   color: white;
   background: #1ba0ab;
 }
 
-.btn--disactive {
+.btnn--disactive {
   color: #1ba0ab;
   border: 1px solid #1ba0ab;
 }
